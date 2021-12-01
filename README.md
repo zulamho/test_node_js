@@ -2,13 +2,13 @@
 
 ## Команда для установки:
 
-### npm install
+### `npm install`
 
 ## Команды для запуска:
 
-### npm start
+### `npm start`
 
-### npm run dev
+### `npm run dev`
 
 ## Задание:
 
